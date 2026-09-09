@@ -1,0 +1,13 @@
+{
+  "name": "genpark-two-phase-commit-sink-exactly-once-skill",
+  "version": "1.0.0",
+  "description": "Transactional Two-Phase Commit (2PC) stream sink coordinator guaranteeing end-to-end exactly-once delivery across failure recoveries.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "stream-sink",
+    "exactly-once",
+    "two-phase-commit",
+    "stream-delivery"
+  ]
+}
